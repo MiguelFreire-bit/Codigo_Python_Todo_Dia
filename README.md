@@ -51,3 +51,12 @@ Sinta-se à vontade para navegar pelos exercícios de acordo com seus interesses
 Este repositório é pessoal e destinado à minha própria prática e referência. Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato ou criar problemas  para discussão.
 
 Lembre-se, a prática constante é fundamental para o aprimoramento das habilidades de programação. Divirta-se programando!
+
+
+
+Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
+
+* E-mail: [miguelsilvafreire@hotmail.com](mailto:seuemail@example.com)
+* LinkedIn: [www.linkedin.com/in/miguel-freire99/](https://www.linkedin.com/in/seuperfil/)
+
+Contribuições e feedback são sempre bem-vindos!
