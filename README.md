@@ -30,19 +30,19 @@ Os exercícios estão organizados em categorias para facilitar a navegação. Aq
 
 * **Funções**
   
-  - Exercícios 117 a 130
+  - Exercícios 117 a 146
 
 * **Noções de Programação Orientada a Objetos (POO)**
   
-  - Exercícios 131 a 142
+  - Exercícios 147 a 158
 
 * **SQLite3**
   
-  - Exercícios 143 a 147
+  - Exercícios 159 a 163 
 
 * **Projetos com Python**
   
-  - Exercícios 148 a 154
+  - Exercícios 164 a 170
 
 ## Como Usar
 
